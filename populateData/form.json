@@ -1,0 +1,12 @@
+{
+  "singupInfo": "we'll keep you posted",
+  "name": { "standardName": "Insert", "highlightedName": " ( name ) :" },
+  "lastName": {
+    "standardLastName": "Insert=",
+    "highlightedLastName": "( last_name ) :"
+  },
+  "email": "Email: ",
+  "terms": "By clicking this box, I agree to this terms & conditions and privacy policy",
+  "submitButton": "//JOIN",
+  "errorMessage": "One or more fields have an error. Please check and try again."
+}

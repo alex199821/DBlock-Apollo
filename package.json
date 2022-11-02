@@ -1,0 +1,17 @@
+{
+  "name": "dblock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sasha Uplisashvili",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^3.10.3",
+    "dotenv": "^16.0.3",
+    "graphql": "^16.6.0",
+    "mongoose": "^6.7.0"
+  }
+}

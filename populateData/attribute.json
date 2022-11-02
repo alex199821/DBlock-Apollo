@@ -1,0 +1,26 @@
+[
+  {
+    "link": "hot-desk",
+    "description": "The hot-desk membership lets you work at an available desk anytime you arrive at the DBLOCK."
+  },
+  {
+    "link": "boxes",
+    "description": "Boxes are separate booths of different sizes, usually used by small working teams."
+  },
+  {
+    "link": "events",
+    "description": "Events are for networking, sharing knowledge & experience, generating new ideas and fun."
+  },
+  {
+    "link": "programs",
+    "description": "Special educational programs, workshops, and trainings in many fields, curated and led especially for professional development."
+  },
+  {
+    "link": "meeting rooms",
+    "description": "Meetings rooms for productive gatherings, adopted with quality digital conference tools to functionalities."
+  },
+  {
+    "link": "private offices",
+    "description": "An entire office space for middle-sized teams, small organizations, and business collectives of 15-20 members."
+  }
+]
