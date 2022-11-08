@@ -10,6 +10,8 @@ const jsonHeader = require("./populateData/header.json");
 const jsonAttribute = require("./populateData/attribute.json");
 const jsonContacts = require("./populateData/contact.json");
 const jsonForm = require("./populateData/form.json");
+
+//Function to allow us data upload to the server until admin console is ready
 const start = async () => {
   try {
     await connectDB();
